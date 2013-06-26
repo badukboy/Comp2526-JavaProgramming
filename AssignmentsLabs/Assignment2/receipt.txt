@@ -1,0 +1,11 @@
+Your are purchasing the following item:
+DrumSet $500.0
+triangle $75.0
+triangle $75.0
+-----------
+TOTAL: $650.0
+
+You are renting the following items:
+triangle
+-----------
+Rental fees due: $105.0

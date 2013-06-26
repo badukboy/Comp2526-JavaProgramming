@@ -1,0 +1,39 @@
+Creating a MusicalInstrument:
+Descritpion: Kazzoo
+Stock code: kaz001
+Puchase price: $1.0
+Selling price: $2.0
+Quantity in stock: 5
+Quantity sold: 5
+Inventory value: $5.00
+Profit from sales: $5.00
+Number of instruments rented: 2
+
+Creating a Customer:
+ENTER first name, last name, credit card #, address, phone number: Darby, Dog, 1234567890, Right Here, 555-555-5555
+Customer [firstName=Darby, lastName=Dog, creditCardNumber=1234567890, address=Right Here, phoneNumber=555-555-5555]
+
+The date is:
+18-06-2012
+
+Create a Rental Agreement:
+Customer: Darby Dog
+Rental date: 18-06-2012
+Instrument type: Kazzoo
+Fee per day: $1.00
+Number of days rented: 31
+Total rental fee: $31.00
+
+Create purchase and rental shopping carts:
+You are purchasing the following items:
+Kazzoo	$2.00
+Kazzoo	$2.00
+Kazzoo	$2.00
+Kazzoo	$2.00
+Kazzoo	$2.00
+TOTAL:	$10.00
+
+You are renting the following items:
+Kazzoo
+Rental fees due:	$31.00
+

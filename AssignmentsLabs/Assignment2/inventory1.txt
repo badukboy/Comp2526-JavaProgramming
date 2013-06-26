@@ -1,0 +1,4 @@
+Kazzoo|kaz001|1.00|2.00
+Flute|flu001|10|11
+Guitar|Gui001|20|26
+Piano|Pia001|100|130

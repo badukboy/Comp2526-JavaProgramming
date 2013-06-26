@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_20" class="java.beans.XMLDecoder"> 
+ <object class="java.util.ArrayList"> 
+  <void method="add"> 
+   <object class="ca.bcit.examples.file.ferris.Movie"> 
+    <void property="category"> 
+     <string>Drama</string> 
+    </void> 
+    <void property="title"> 
+     <string>Elizabeth I</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="ca.bcit.examples.file.ferris.Movie"> 
+    <void property="category"> 
+     <string>Action</string> 
+    </void> 
+    <void property="title"> 
+     <string>The Bourne Supremacy</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="ca.bcit.examples.file.ferris.Movie"> 
+    <void property="category"> 
+     <string>Comedy</string> 
+    </void> 
+    <void property="title"> 
+     <string>Ferris Bueller&apos;s Day Off</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="ca.bcit.examples.file.ferris.Movie"> 
+    <void property="category"> 
+     <string>Cartoon</string> 
+    </void> 
+    <void property="title"> 
+     <string>Cars</string> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java> 

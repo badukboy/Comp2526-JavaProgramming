@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ColorsMVCTest/src"/>
+	<classpathentry kind="src" path="uiswing/14painting"/>
+	<classpathentry kind="src" path="uiswing/14start"/>
+	<classpathentry kind="src" path="uiswing/components"/>
+	<classpathentry kind="src" path="uiswing/events"/>
+	<classpathentry kind="src" path="uiswing/layout"/>
+	<classpathentry kind="src" path="uiswing/learn"/>
+	<classpathentry kind="src" path="uiswing/learningTMP"/>
+	<classpathentry kind="src" path="uiswing/mini"/>
+	<classpathentry kind="src" path="uiswing/misc"/>
+	<classpathentry kind="src" path="uiswing/QandE"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

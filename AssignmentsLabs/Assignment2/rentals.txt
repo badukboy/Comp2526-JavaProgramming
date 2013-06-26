@@ -1,0 +1,10 @@
+Customer: Asdf Asdf
+Credit Card Number: asdf
+Address: asdf
+Phone Number: asdf
+Date: 31-07-2012
+Instrument Rented: Guitar(Gui001)
+Rent per day: $55.0
+Number of days: 3
+Total rental cost: $165.0
+

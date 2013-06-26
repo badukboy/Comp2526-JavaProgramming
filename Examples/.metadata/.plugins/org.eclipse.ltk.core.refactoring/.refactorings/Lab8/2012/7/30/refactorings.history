@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Lab10&apos;&#x0D;&#x0A;- Original project: &apos;Lab8&apos;&#x0D;&#x0A;- Destination element: &apos;Lab10&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     miglayout15-swing.jar&#x0D;&#x0A;     miglayout-src.zip" description="Copy files" destination="=Lab10" element1="miglayout15-swing.jar" element2="miglayout-src.zip" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1343167351643" units="0" version="1.0"/>
+</session>
